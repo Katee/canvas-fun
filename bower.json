@@ -1,0 +1,19 @@
+{
+  "name": "canvas-fun",
+  "authors": [
+    "Kate Murphy <hello@kate.io>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "p5.js": "p5js#^0.5.11"
+  }
+}
